@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Ankithac45/Respondent-Travel-profile/static/css/main.e684afa5.css",
-    "main.js": "/Ankithac45/Respondent-Travel-profile/static/js/main.07ef6d96.js",
-    "index.html": "/Ankithac45/Respondent-Travel-profile/index.html",
-    "main.e684afa5.css.map": "/Ankithac45/Respondent-Travel-profile/static/css/main.e684afa5.css.map",
-    "main.07ef6d96.js.map": "/Ankithac45/Respondent-Travel-profile/static/js/main.07ef6d96.js.map"
+    "main.css": "/Respondent-Travel-profile/static/css/main.e684afa5.css",
+    "main.js": "/Respondent-Travel-profile/static/js/main.07ef6d96.js",
+    "index.html": "/Respondent-Travel-profile/index.html",
+    "main.e684afa5.css.map": "/Respondent-Travel-profile/static/css/main.e684afa5.css.map",
+    "main.07ef6d96.js.map": "/Respondent-Travel-profile/static/js/main.07ef6d96.js.map"
   },
   "entrypoints": [
     "static/css/main.e684afa5.css",
