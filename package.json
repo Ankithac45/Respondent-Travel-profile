@@ -1,21 +1,25 @@
 {
   "name": "my-app",
+  "homepage": "https://github.com/Ankithac45/Respondent-Travel-profile",
   "version": "1.0.0",
   "description": "My awesome React app",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "gh-pages": "^5.0.0",
     "react": "^16.8.0",
     "react-dom": "^16.8.0",
     "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
-    "react-scripts": "^2.1.3"
+    "react-scripts": "^5.0.1"
   },
   "browserslist": {
     "production": [
