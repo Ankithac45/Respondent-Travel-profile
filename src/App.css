@@ -1,0 +1,82 @@
+/* styles for the entire app */
+
+/* set a background color */
+body {
+    background-color: #29f5f8;
+  }
+  
+  /* center the content horizontally */
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* styles for the home page */
+  
+  /* set a width for the form */
+  form {
+    width: 400px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 4px;
+  }
+  
+  /* style the radio button labels */
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  /* style the submit button */
+  button[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  /* hover effect for the submit button */
+  button[type="submit"]:hover {
+    background-color: #0069d9;
+  }
+  
+  /* styles for the results page */
+  
+  /* set a width for the results container */
+  .results {
+    width: 400px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 4px;
+  }
+  
+  /* style the results text */
+  .results p {
+    margin-bottom: 10px;
+  }
+  
+  /* style the "back" button */
+  button[type="button"] {
+    background-color: #1182e6;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  /* hover effect for the "back" button */
+  button[type="button"]:hover {
+    background-color: #5a6268;
+  }
+  

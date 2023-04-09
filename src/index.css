@@ -1,0 +1,62 @@
+/* set some basic styles for the entire page */
+
+/* set the font family and size */
+html {
+    font-family: sans-serif;
+    font-size: 16px;
+  }
+  
+  /* center the content horizontally */
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* styles for the page title */
+  
+  /* center the title text */
+  h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  /* styles for the navigation links */
+  
+  /* set a background color for the active link */
+  nav a.active {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  /* style the navigation links */
+  nav a {
+    display: inline-block;
+    text-decoration: none;
+    color: #333;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* hover effect for the navigation links */
+  nav a:hover {
+    background-color: #e93131;
+  }
+  
+  /* styles for the content container */
+  
+  /* set a width for the content */
+  main {
+    width: 800px;
+    margin-top: 20px;
+  }
+  
+  /* add some spacing between the content and the navigation links */
+  main + nav {
+    margin-top: 20px;
+  }
+  
