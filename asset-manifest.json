@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.80dfb231.chunk.css",
-  "main.js": "/static/js/main.6939200d.chunk.js",
-  "main.js.map": "/static/js/main.6939200d.chunk.js.map",
-  "static/js/1.dc7ef345.chunk.js": "/static/js/1.dc7ef345.chunk.js",
-  "static/js/1.dc7ef345.chunk.js.map": "/static/js/1.dc7ef345.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.80dfb231.chunk.css.map": "/static/css/main.80dfb231.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.95295a074ff43c121e6026cefe74151d.js": "/precache-manifest.95295a074ff43c121e6026cefe74151d.js",
-  "service-worker.js": "/service-worker.js"
+  "files": {
+    "main.css": "/Ankithac45/Respondent-Travel-profile/static/css/main.e684afa5.css",
+    "main.js": "/Ankithac45/Respondent-Travel-profile/static/js/main.07ef6d96.js",
+    "index.html": "/Ankithac45/Respondent-Travel-profile/index.html",
+    "main.e684afa5.css.map": "/Ankithac45/Respondent-Travel-profile/static/css/main.e684afa5.css.map",
+    "main.07ef6d96.js.map": "/Ankithac45/Respondent-Travel-profile/static/js/main.07ef6d96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e684afa5.css",
+    "static/js/main.07ef6d96.js"
+  ]
 }
